@@ -70,16 +70,6 @@
         }
     },
     {
-        "id": 524901,
-        "name": "Moscow",
-        "state": "",
-        "country": "RU",
-        "coord": {
-            "lon": 37.615555,
-            "lat": 55.75222
-        }
-    },
-    {
         "id": 536203,
         "name": "Saint Petersburg",
         "state": "",
@@ -170,13 +160,13 @@
         }
     },
     {
-        "id": 7536078,
-        "name": "Irkutsk",
+        "id": 520555,
+        "name": "Nizhniy Novgorod",
         "state": "",
         "country": "RU",
         "coord": {
-            "lon": 104.302139,
-            "lat": 52.280762
+            "lon": 44.002048,
+            "lat": 56.328674
         }
     }
 ]
